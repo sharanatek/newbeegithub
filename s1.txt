@@ -1,2 +1,2 @@
 new file
-
+adding a line from directory2 repository
