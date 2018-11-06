@@ -1,0 +1,14 @@
+git branch prodhotfix
+git branch uat
+git branch test
+git branch dev
+# to see all branches
+git branch
+
+# checkout and work on branches
+
+# checkout CL moves the HEAD pointer to specified Branch
+
+git checkout dev
+
+#fast forward merge and 3 way merge
